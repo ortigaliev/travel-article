@@ -68,7 +68,10 @@ body{
   color: #fff;
 }
 .article-content-link {
-  padding: 12px 24px;
+  padding: 12px 24px 12px 54px;
+  background-image: url(../img/star-icon.svg);
+  background-repeat: no-repeat;
+  background-position: 24px center;
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 2px;
@@ -176,8 +179,6 @@ body{
 }
 .article-horizontal-content-time-icon {
   margin-right: 4px;
-}
-.article-horizontal-watch-counter {
 }
 
 .blue-button{
